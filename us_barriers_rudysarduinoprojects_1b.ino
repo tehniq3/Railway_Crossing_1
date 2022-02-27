@@ -1,5 +1,5 @@
 // https://rudysarduinoprojects.wordpress.com/2020/09/23/fun-with-arduino-42-railway-crossing-multi-track-two-way/
-// Nicu Florica (niq_ro) added 3rd led as in US
+// Nicu Florica (niq_ro) added 3rd led as in US (tip lamp)
 // ver.1.a: Nicu Florica (niq_ro) added 3rd led as in US
 // ver.1.b: added 4th led (white led) for open gates
 
